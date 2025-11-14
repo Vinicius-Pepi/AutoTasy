@@ -1,4 +1,4 @@
-# AutoTasy: Gerenciador de Automação e Inicialização
+# AutoTasy
 
 Um repositório para centralizar as *releases* do projeto de automação **AutoTasy**.
 
