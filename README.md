@@ -1,5 +1,3 @@
-<img width="1024" height="1024" alt="Gemini_Generated_Image_6z9h1x6z9h1x6z9h" src="https://github.com/user-attachments/assets/06471ab6-ecb0-4dff-8ebe-916baa69efcb" width="50%"/>
-
 ## 🤖 AutoTasy
 
 O **AutoTasy** é uma aplicação de automação desenvolvida em **Python**. Seu principal objetivo é simplificar e automatizar processos repetitivos no sistema Tasy, (comumente utilizado em ambientes hospitalares).
